@@ -21,17 +21,17 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 msgid "%1$s left"
-msgstr ""
+msgstr "المتبقي"
 
 msgid "%1$s records were imported"
 msgstr ""
 
 #, python-format
 msgid "%s here's your Daily report for %s"
-msgstr ""
+msgstr "تقريرك اليومي"
 
 msgid "Activities"
-msgstr ""
+msgstr "الانشطة"
 
 msgid "Activity by days"
 msgstr ""
@@ -43,22 +43,22 @@ msgid "Activity by weeks"
 msgstr ""
 
 msgid "Add"
-msgstr ""
+msgstr "اضافة"
 
 msgid "Add Activity"
-msgstr ""
+msgstr "اضافة"
 
 msgid "Add TODO"
 msgstr ""
 
 msgid "Add category"
-msgstr ""
+msgstr "اضافة فئة"
 
 msgid "Add more"
-msgstr ""
+msgstr "ادراج المزيد"
 
 msgid "Add new tasks to the top"
-msgstr ""
+msgstr "اضافة مهام جديدة للأعلى"
 
 msgid "Alleviate anxiety linked to beginning"
 msgstr ""
